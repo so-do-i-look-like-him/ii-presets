@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "Minimalist Island ",
+    "author": "so-do-i-look-like-him",
+    "description": "Just a simple ultra minimalistic island preset.",
+    "version": "1.0.0",
+    "configVersion": 29,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-03a5ff69.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-12",
+            "notes": "1.0"
+        }
+    ],
+    "wallpaper": "wallpaper.png",
+    "banner": "banner.png"
+}
